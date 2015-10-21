@@ -5,13 +5,11 @@
   "format": "cjs",
   "registry": "github",
   "peerDependencies": {
-    "angular": "^1.4.0",
     "angular-animate": "^1.4.0",
     "angular-aria": "^1.4.0"
   },
   "jspm": {
     "dependencies": {
-      "angular": "npm:angular@^1.4.0",
       "angular-animate": "npm:angular-animate@^1.4.0",
       "angular-aria": "npm:angular-aria@^1.4.0",
       "css": "systemjs/plugin-css@^0.1.9"
